@@ -7,7 +7,7 @@ using MelonLoader;
 using Process;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(DontRuinMyAccount.Core), "DontRuinMyAccount", "1.0.0", "Starrah", null)]
+[assembly: MelonInfo(typeof(DontRuinMyAccount.Core), "DontRuinMyAccount", "1.0.0", "Starrah", "https://github.com/Starrah/DontRuinMyAccount")]
 [assembly: MelonGame("sega-interactive", "Sinmai")]
 
 namespace DontRuinMyAccount;
